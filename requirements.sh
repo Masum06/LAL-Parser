@@ -1,4 +1,4 @@
-pip install torch==1.1.0
+pip install torch==1.2.0
 pip install cython==0.29.13 
 pip install numpy==1.17.2
 sudo apt-get install libhdf5-serial-dev=1.8.16+docs-4ubuntu1.1
@@ -12,6 +12,10 @@ python3 -m nltk.downloader punkt averaged_perceptron_tagger
 pip install git+https://github.com/lanpa/tensorboardX
 pip install transformers==2.8.0
 pip install tqdm==4.45.0
+
+# Drawing
+#https://github.com/rawlins/svgling
+pip install svgling==0.3.0
 
 # Download pre-trained model
 pip install gdown
