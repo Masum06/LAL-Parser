@@ -1,0 +1,4 @@
+(S (NP (EX There)) (VP (VBZ is) (NP (DT a) (JJ small) (NN blue) (NN car)) (PP (IN near) (NP (DT the) (NN house)))) (. .))
+(S (NP (DT The) (NN man)) (VP (VBZ is) (VP (VBG running) (PP (IN on) (NP (DT the) (NN mountain))))) (. .))
+(S (NP (PRP I)) (VP (VBP ate) (NP (NP (DT the) (NNS blueberries) (CC and) (NNS apples)) (SBAR (WHNP (IN that)) (S (NP (PRP I)) (VP (VBD purchased) (NP (NN yesterday))))))) (. .))
+(S (NP (PRP I)) (VP (VBP prefer) (NP (NP (DT the) (NN morning) (NN flight)) (PP (IN through) (NP (NNP Denver))))) (. .))

@@ -1,0 +1,4 @@
+['expl', 'root', 'det', 'amod', 'nn', 'nsubj', 'prep', 'det', 'pobj', 'punct']
+['det', 'nsubj', 'aux', 'root', 'prep', 'det', 'pobj', 'punct']
+['nsubj', 'root', 'det', 'dobj', 'cc', 'conj', 'dobj', 'nsubj', 'rcmod', 'tmod', 'punct']
+['nsubj', 'root', 'det', 'nn', 'dobj', 'prep', 'pobj', 'punct']
